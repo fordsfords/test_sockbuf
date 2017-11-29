@@ -1,5 +1,4 @@
-# semlit
-test_sockbuf
+# test_sockbuf
 
 test_sockbuf is a simple project which reproduces the first two sets of
 results shown at:
